@@ -2,7 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/fantasy_wr/index.html",
       "/posts/russell-wilson/index.html",
+      "/posts/machine-learning-march-madness-bracket/index.html",
       "/posts/statistical-p4p-fighters/index.html",
       "/posts/introduction/index.html"
     ]
